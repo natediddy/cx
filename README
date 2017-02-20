@@ -1,0 +1,6 @@
+CX - Console eXplorer
+=====================
+
+CX is a simple console based file manager using the Ncurses library.
+
+To build this program, run `make' within this directory.
